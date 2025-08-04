@@ -3,7 +3,17 @@
 
 A basic calculator app built using UIKit and Storyboard in Swift. It performs standard arithmetic operations (+, −, ×, ÷, %) with input validation and real-time result display.
 
-### 🔑 Concepts Learned
+## 🚀 Features
+
+- Basic Arithmetic Operations (+, −, ×, ÷, %)
+- Input Validation to handle incorrect expressions
+- Percentage Calculation Support
+- Delete & All Clear Functionalities
+- Result Formatting (Integer / Decimal Precision)
+- Error Alerts using UIAlertController
+- Clean UI Layout using Storyboard Constraints
+
+## 🔑 Concepts Learned
 
 🎨	UIKit & Storyboard Layout: Creating UI with buttons, labels, and connecting them via IBOutlets & IBActions.
 
@@ -20,6 +30,12 @@ A basic calculator app built using UIKit and Storyboard in Swift. It performs st
 🧼	String Manipulation for operations like delete, clear, and formatting results.
 
 🔄	MVC Pattern Basics (ViewController handles UI & logic).
+
+## 🛠️ Tech Stack
+
+- Swift 5
+- UIKit (Storyboard)
+- Xcode 15
 
 ## 📸 Screenshots
 <img src="https://github.com/581-pooja/Calculator_Uikit/blob/main/Calculator_Uikit.jpeg?raw=true" width="300"/>
