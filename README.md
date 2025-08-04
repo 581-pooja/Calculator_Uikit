@@ -38,7 +38,9 @@ A basic calculator app built using UIKit and Storyboard in Swift. It performs st
 - Xcode 15
 
 ## 📸 Screenshots
-<img src="https://github.com/581-pooja/Calculator_Uikit/blob/main/Calculator_Uikit.jpeg?raw=true" width="300"/>
+<img src="https://github.com/581-pooja/Memory-Card-Matching-Game/blob/main/MemoryCard1.jpeg?raw=true" width="300"/>
+
+<img src="https://github.com/581-pooja/Memory-Card-Matching-Game/blob/main/MemoryCard1.jpeg?raw=true" width="300"/>
 
 ## 🎥 Demo Video
 [![Watch Demo Video](https://github.com/581-pooja/Calculator_Uikit/blob/main/Calculator_Uikit.jpeg?raw=true)](https://private-user-images.githubusercontent.com/66077775/473858248-a0f8f26d-ead5-4242-9784-e182e8849821.mp4)
